@@ -1,1 +1,1 @@
-echo "Hello Azure DevOps!!"
+echo "Hello Azure DevOps  - $Agent.OS !!"
